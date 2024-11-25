@@ -3,7 +3,7 @@
 Welcome to my Asteroids Game clone! This is an my attempt at game development, with more to come in the future. To play the game, ensure that the main.py file is open, then run this program how you normally run a python file.　For me, (using VSCode) there is a play button in the top right of the screen that I press to run the program.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]((https://youtu.be/qEJrBIQdUzk))
 
 # Development Environment
 
